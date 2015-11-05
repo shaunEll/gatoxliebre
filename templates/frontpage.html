@@ -1,0 +1,8 @@
+<div class="col-md-8 bottomspace-sm" ng-repeat="content in pageContent">
+    <h2>{{content.title}}</h2>
+    <h4>{{content.text}}</h4>
+    <a href="{{content.link}}" target="_blank">
+      <img class="img-coverimage-lg" ng-src="{{content.image}}" />
+    </a>
+    <h6>Publicado el {{ content.published | date:"dd/mm/yyyy"}}</h6>
+</div>

@@ -1,0 +1,39 @@
+Nameserver Details
+You can also point your domain ("A" DNS record) to this IP: 31.170.165.24
+ns1.hostinger.co.uk	31.170.163.241
+ns2.hostinger.co.uk	31.220.23.1
+ns3.hostinger.co.uk	173.192.183.247
+ns4.hostinger.co.uk	31.170.164.249
+Website Details
+Access your Website at	http://gatoxliebre.esy.es
+Access your Website with www.	http://www.gatoxliebre.esy.es
+Preview your website at	Click here
+Website IP Address	31.170.165.24
+Server Name	server18.hostinger.co.uk
+E-mail Details
+Webmail Address	http://webmail.hostinger.co.uk
+Login Username	User E-mail Address
+Password	User E-mail Password
+POP3/IMAP Host	mx1.hostinger.co.uk
+POP3 Port	110
+POP3 Port (secured)	Upgrade
+IMAP Port	Upgrade
+IMAP Port (secured)	Upgrade
+SMTP Host	mx1.hostinger.co.uk
+SMTP Ports	Use Webmail  client or Upgrade
+SMTP Ports (secured)	Use Webmail  client or Upgrade
+Manage E-mail Accounts	Manage E-mails
+File Upload Details
+FTP IP	31.170.165.24
+FTP Hostname	ftp.gatoxliebre.esy.es
+FTP Username	u548491907
+FTP Password	••••••••••
+FTP Port	21
+Folder to Upload Files	public_html
+Forgot FTP Password?	Change Account Password
+Recommended FTP Clients	SmartFTP or FileZilla
+Website Builder Details
+Select website template at	http://builder.hostinger.co.uk
+Login Domain	gatoxliebre.esy.es
+Username	u548491907
+Password	••••••••••

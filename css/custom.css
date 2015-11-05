@@ -1,0 +1,96 @@
+.gato {
+  color:black;
+}
+
+.navbar {
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5em;
+}
+
+.footerAddress {
+  font-size: 0.8em;
+  font-weight: lighter;
+  text-align: center;
+  line-height: 0.8em;
+}
+
+.rd {
+  color:rgb(251, 72, 72);
+}
+
+.navbar-inverse {
+  background-color: black !important;
+  color: white;
+}
+
+a.glow, a.glow:hover, a.glow:focus
+{
+	text-decoration: none;
+	color: white;
+	text-shadow: none;
+	-webkit-transition: 200ms linear 0s;
+	-moz-transition: 200ms linear 0s;
+	-o-transition: 200ms linear 0s;
+	transition: 200ms linear 0s;
+	outline: 0 none;
+}
+
+a.glow:hover, a.glow:focus
+{
+	color: #fff;
+	text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
+}
+
+@media (min-width: 768px) {
+
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+.brand {
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.contentContainer {
+  font-family: 'Special Elite', cursive;
+  margin-top: 10%;
+  margin-bottom: 50%;
+}
+
+@media (min-width: 768px) {
+  .contentContainer {
+    margin-bottom: 10%;
+  }
+}
+
+.topspace-sm {
+  padding-top: 5px;
+}
+
+.bottomspace-sm {
+  padding-bottom: 15px;
+}
+
+.img-socialmedia-sm {
+  height: 32px;
+  width: 32px;
+}
+
+.img-coverimage-lg {
+  height: 700px;
+}
+
+.masonry-brick {
+  display: block;
+  padding:  .25rem;
+}

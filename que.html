@@ -1,0 +1,18 @@
+<div ng-controller="galleryControl as gallery">
+    <h2>Fotos!</h2>
+    <div class="row">
+      <div masonry>
+        <div class="masonry-brick" ng-repeat="brick in gallery.bricks">
+          <a href="{{brick.src}}"><img ng-src="{{ brick.src }}" alt="{{brick.caption}}"></a>
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- <div masonry='{ "transitionDuration" : "0.4s" , "itemSelector" : ".tile"}' ng-repeat="brick in masonryCtrl.bricks">
+  <div masonry-tile>
+    <div class="col-md-4 masonry-tile" >
+        <img ng-src="{{ brick.src }}" alt="A masonry brick">
+    </div>
+  </div>
+</div> -->
